@@ -1,0 +1,7 @@
+.temp/
+mbed/
+*.o
+BUILD
+*.pyc
+.mbed
+.hg
